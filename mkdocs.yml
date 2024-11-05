@@ -1,0 +1,6 @@
+site_name: My Documentation Site
+nav:
+  - Home: index.md
+  - User Guide: user_guide.md
+theme:
+  name: material
