@@ -1,6 +1,9 @@
 site_name: My Documentation Site
+
 nav:
   - Home: index.md
-  - User Guide: user_guide.md
+  # You can add other pages here if needed
+  # - Readme: readme.md  # Uncomment if you want to keep a separate readme
+
 theme:
   name: material
